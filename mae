@@ -29,6 +29,10 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportst
 #EXTINF:-10.0 tvg-name="" tvg-id="1" tvg-logo="https://i.imgur.com/qUYLcS8.png" group-title="CHANNEL | SPORT INDO", Sportstars 4
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 #EXTINF:-1 tvg-id="Champions TV 1" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="CHANNEL | SPORT INDO",Champions TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
 #EXTINF:-1 tvg-id="Champions TV 2" tvg-logo="https://iili.io/2lP43sS.png" group-title="CHANNEL | SPORT INDO",Champions TV 2
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
