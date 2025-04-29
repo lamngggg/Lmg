@@ -904,6 +904,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1 tvg-id="RTMK05" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="SPORTS",SUKAN RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d4ZYNQbQ/Sportv2.png" group-title="SPORTS",SportTv 2 Brazil
+#http://super-cdn.link/sportv2/index.m3u8
 
 
 #EXTM3U
